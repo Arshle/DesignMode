@@ -1,0 +1,5 @@
+# 端口和根目录
+server:
+  port: 10002
+  servlet:
+    context-path: /
